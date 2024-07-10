@@ -10,5 +10,5 @@ export default function GameOver ({winner,onRestart})
             </p>
 
         </div>
-    )
+    );
 }
